@@ -1,0 +1,31 @@
+Api: 
+    TokenAPI: /api/tokens/login
+    ProjectAPI: /api/projects
+    UserInvite: /api/v2/users/activate?projectId=%projectId
+EndPoint: 
+        Stage: https://stage-api.core.merrillcorp.com
+        Dev: 
+        
+        
+Token:
+   MultipalData: No
+   username: coolmohit3021@gmail.com
+   password: Collaboration!
+   
+   
+Project:
+      emailId: mohit4Jan1@gmail1.com
+      projectName: mohit4Jan1DemoProject
+      salesforceProjectId: salesforceProjectmohit4Jan1
+
+User:
+    userIds: mohituserid
+      
+      
+      
+
+
+
+        
+
+       
